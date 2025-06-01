@@ -31,7 +31,7 @@ const Header = () => {
               </span>
               <div>
                 <p>Deliver to</p>
-                <span className={css.ethiopia}>Ethiopia</span>
+                <span className={css.ethiopia}>NewYork</span>
               </div>
             </div>
           </div>
