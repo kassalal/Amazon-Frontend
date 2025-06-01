@@ -1,0 +1,9 @@
+.products__container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* Creates 5 equal columns */
+    max-width: 1200px; /* Optional: Set a max width for your grid */
+    margin: 100px auto; /* Center the grid with auto margins */
+    gap: 50px; /* Space between grid items */
+    justify-items: center; /* Center items within their grid cells */
+    box-sizing: border-box;
+  }
